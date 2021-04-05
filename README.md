@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Hector, a full stack developer!
 
+<img align="right" href="https://github.com/hectorkd" src="./assets/desk-animation.gif" height=350>
+
+
+
 ### Tools I've been using lately
 
 <p align="left"> 
