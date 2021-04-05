@@ -2,12 +2,16 @@
 
 <img align="right" href="https://github.com/hectorkd" src="./assets/desk-animation.gif" height=350>
 
+I am a full stack developer who loves taking on new and challenging projects. 
 
+### What I'm working on
+
+- Deployed TyperSace, a gamified way to help inprove your typing speed. Still in the early stages, plenty more to come.
+- Working on deploying my mobile app RoutineLab.
 
 ### Tools I've been using lately
 
 <p align="left"> 
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a> 
