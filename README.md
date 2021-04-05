@@ -4,6 +4,8 @@
 
 I am a full stack developer who loves taking on new and challenging projects. 
 
+In my free time I love travelling, photography and filmmaking. As a former gymnast, sport is an important part of my life. I also have a keen interest in IoT technology, specifically HomeKit.
+
 ### What I'm working on
 
 - Deployed TyperSace, a gamified way to help inprove your typing speed. Still in the early stages, plenty more to come.
