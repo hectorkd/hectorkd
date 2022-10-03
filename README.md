@@ -8,8 +8,9 @@ In my free time I love travelling, photography and filmmaking. As a former gymna
 
 ### What I'm working on
 
-- Deployed TyperSace, a gamified way to help inprove your typing speed. Still in the early stages, plenty more to come.
-- Working on deploying my mobile app RoutineLab.
+- Currently working at Proximie as a Senior Fullstack Developer.
+- Previous role was as Lead Frontend Developer at Gophr, a last mile delivery company.
+- Working on deploying gymnastics app RoutineLab.
 
 ### Tools I've been using lately
 
