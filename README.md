@@ -8,8 +8,7 @@ In my free time I love travelling, photography and filmmaking. As a former gymna
 
 ### What I'm working on
 
-- Currently working at Proximie as a Senior Fullstack Developer.
-- Previous role was as Lead Frontend Developer at Gophr, a last mile delivery company.
+- Working at Gohr, a last mile delivery company, as a Lead Frontend Developer.
 - Working on deploying gymnastics app RoutineLab.
 
 ### Tools I've been using lately
