@@ -8,7 +8,7 @@ In my free time I love travelling, photography and filmmaking. As a former gymna
 
 ### What I'm working on
 
-- Working at Gohr, a last mile delivery company, as a Lead Frontend Developer.
+- Working at Gophr, a last mile delivery company, as a Lead Frontend Developer.
 - Working on deploying gymnastics app RoutineLab.
 
 ### Tools I've been using lately
